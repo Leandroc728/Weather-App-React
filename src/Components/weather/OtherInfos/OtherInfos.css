@@ -1,0 +1,8 @@
+.secondaryInfo p {
+    margin: .2em;
+}
+
+.tertiaryInfo p {
+    font-size: normal;
+    margin: .2em 0;
+}
